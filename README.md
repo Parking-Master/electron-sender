@@ -1,2 +1,2 @@
-# electron-response
-A simple package to interact between the ElectronJS main/renderer process.
+# send-receive
+A simple ElectronJS tool to send and receive messages between processes.
